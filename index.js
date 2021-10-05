@@ -1,3 +1,4 @@
 function showNumber(number) {
-    console.log(`The number is: ${number}`)
+    console.log(`El numero es: ${number}`)
+    console.log('No se???')
 }
