@@ -10,3 +10,5 @@ const whoIsBigger = (a, b) => {
 const multiplyBy = (a, by) => {
     return a * by
 }
+
+const squareRoot = a => Math.sqrt(a);
