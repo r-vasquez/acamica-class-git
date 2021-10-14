@@ -4,7 +4,7 @@ function showNumber(number) {
 }
 
 const whoIsBigger = (a, b) => {
-    return a > b ? `El mayor es ${a}`:` el mayor es ${b}`
+    return a > b ? `El mayor esssss ${a}`:` el mayor es ${b}`
 }
 
 const multiplyBy = (a, by) => {
