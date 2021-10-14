@@ -1,1 +1,3 @@
-console.log("hola mundo");
+const functionString = () => {
+  return console.log("hola mundo");
+};
